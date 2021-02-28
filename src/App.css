@@ -36,3 +36,129 @@
     transform: rotate(360deg);
   }
 }
+.style-app{
+  height: 1000px;
+  background: #0e0e0e;
+}
+.style-body-app{
+  width: 1500px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 100px;
+}
+.style-nav{
+  background: #2e2e2e;
+  height: 50px;
+}
+.style-div-content{
+  background: white;
+  height: 700px;
+
+}
+.style-div-title1{
+  background: #00a3ad;
+  height: 180px;
+}
+.style-title1{
+  padding-top: 20px;
+  color: white;
+  text-align: start;
+  margin-left: 50px;
+}
+.style-div-content-data{
+  background: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 55%;
+  position: absolute;
+  left: 23%;
+  top: 180px;
+}
+.style-section-products{
+  background: white;
+  width: 40%;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 550px;
+}
+.style-section-details{
+  background: white;
+  width: 60%;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 550px;
+}
+.style-title2{
+  text-align: start;
+  background: #f4f4f4;
+  margin-left: 20px;
+}
+.style-row-product{
+
+}
+.btn-product{
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid darkgrey;
+  margin-left: 20px;
+  width: 85%;
+  margin-top: 15px;
+}
+.bg-product-selected{
+  background: #00a3ad !important;
+  color: white;
+}
+.style-title3{
+  background: #00cfc9;
+  color: white;
+  height: 50px;
+}
+.thead-investors{
+  background: #00cfc9;
+  color: white;
+  height: 50px;
+  width: 100%;
+}
+.style-button-add-more{
+  background: #ffad00;
+  border: 0;
+  border-radius: 100%;
+  position: absolute;
+  left: 95%;
+  top: -30px;
+}
+.style-button-edit{
+  background: #00a3ad;
+  border-radius: 100%;
+  border: 0;
+}
+.style-row-investor{
+  height: 100px;
+  border-bottom: 1px solid whitesmoke;
+}
+.style-title4{
+  background: #00cfc9;
+  color: white;
+  height: 35px;
+}
+.style-row-new-investor{
+  height: 100px;
+  border-bottom: 1px solid whitesmoke;
+}
+.text-color{
+  color: #00a3ad;
+}
+.style-button-save{
+  background: #00a3ad;
+  border-radius: 100%;
+  border: 0;
+}
+.footer-details{
+  background: #00a3ad;
+  position: absolute;
+  width: 60%;
+  left: 353px;
+  top: 500px;
+  height: 50px;
+  color: white;
+}
+.style-section-details1{
+  height: 550px;
+}
